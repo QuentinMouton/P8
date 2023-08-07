@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0288e9c5.css",
+    "main.js": "./static/js/main.9dd8db98.js",
+    "static/media/accueil.jpg": "./static/media/accueil.7d535815e88e29dd7060.jpg",
+    "static/media/charlesdeluvio-pjAH2Ax4uWk-unsplash.jpg": "./static/media/charlesdeluvio-pjAH2Ax4uWk-unsplash.94ddfe606f412ccb9980.jpg",
+    "static/media/contactImg.png": "./static/media/contactImg.88904acdf6088c62c045.png",
+    "static/media/sophie.png": "./static/media/sophie.55a7e277c1e0e2d41029.png",
+    "static/media/kasa.png": "./static/media/kasa.84ee4d17c87d97d70263.png",
+    "static/media/booki.png": "./static/media/booki.206728f9a2fca4268360.png",
+    "static/media/nina.png": "./static/media/nina.9cf05a6a7c8118d30607.png",
+    "static/media/mvg.png": "./static/media/mvg.9f08da82a84b3524a8f3.png",
+    "index.html": "./index.html",
+    "static/media/github.svg": "./static/media/github.568d087db006cd12d7e6db2b35616948.svg",
+    "static/media/codepen.svg": "./static/media/codepen.3a553b9051b02676895716514acbcdd1.svg",
+    "main.0288e9c5.css.map": "./static/css/main.0288e9c5.css.map",
+    "main.9dd8db98.js.map": "./static/js/main.9dd8db98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0288e9c5.css",
+    "static/js/main.9dd8db98.js"
+  ]
+}
